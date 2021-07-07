@@ -73,7 +73,7 @@
            style={{
              backgroundColor: isDarkMode ? Colors.black : Colors.white,
            }}>
-           <Section title="Step One">
+           <Section title="Step One11111111111111111SS">
              Edit <Text style={styles.highlight}>App.js</Text> to change this
              screen and then come back to see your edits.
            </Section>
@@ -84,7 +84,7 @@
              <DebugInstructions />
            </Section>
            <Section title="Learn More">
-             Read the docs to discover what to do next:
+             Read the docs to discover what to do next234:
            </Section>
            <LearnMoreLinks />
          </View>
